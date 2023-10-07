@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    display:inline-block
+  }
+  
+  .image1 {
+    position: relative;
+    border-radius: 105.53px;
+    background: #AFB3FF;
+    width: 635px;
+    height: 377px;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+    margin-bottom: 184px;
+    
+  }
+  .image2 {
+    position: absolute;
+    top: 110px;
+    left: 30px;
+    width: 536px;
+    height: 492px;
+    flex-shrink: 0;
+    margin-left: 163px;
+    margin-top: 50px;
+  }
+
+  h3{
+    color: #1A1A1A;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 23px;
+    margin-left: 40px;
+}
+
+.texto{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 11px;
+    margin-top: 12px;
+}
+
+#caixa{
+    border-radius: 50px;
+    border: 1px solid #656ED3;
+    background: rgba(175, 179, 255, 0.00);
+    width: 367px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+#botao{
+    border-radius: 50px;
+    background: #656ED3;
+    width: 365px;
+    height: 34px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 25px;
+}
+
+p{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+a{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 5px;
+}
+
+footer{
+    display: flex;
+    margin-left: 870px;
+    margin-top: 25px;
+}
+
+section{
+  display: inline-block;
+  margin-left: 150px;
+    
+}

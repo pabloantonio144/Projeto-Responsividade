@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #f5ebff;
+}
+
+h3{
+    color: #1A1A1A;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 54px;
+    margin-left: 130px; 
+}
+
+#usuario{
+    color: #000; 
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+    margin-bottom: 11px; 
+}
+
+#senha{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 12px;
+    margin-bottom: 11px; 
+}
+
+.texto1{
+    width: 367px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: 1px solid #656ED3;
+    background: rgba(175, 179, 255, 0.00); 
+}
+
+#login{
+    width: 365px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #656ED3;
+    margin-top: 42px;
+    margin-bottom: 54px;
+    color: #AFB3FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer; 
+}
+
+/*.rectangle {
+    width: 438px;
+    height: 720px;
+    flex-shrink: 0; 
+    background: #AFB3FF;
+    margin-left: 842px;
+  
+   }*/
+
+#texto{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+    
+}
+
+a{
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 3px;
+    cursor: pointer;
+    
+    
+}
+
+img{
+    margin-top: 37px;
+    margin-left: 76px;
+    display: inline-block;
+
+}
+
+section{
+    margin-left: 240px;
+    display: inline-block;
+    
+    
+}
+
+footer{
+    display: flex;
+    margin-left: 290px;
+    
+}
